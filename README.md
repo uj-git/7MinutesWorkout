@@ -1,2 +1,3 @@
 "# 7MinutesWorkout" 
-https://user-images.githubusercontent.com/84584289/192335206-2f81e44c-0df4-43bf-96f1-ec86f780bd34.mp4
+
+![InShot_20220926_221007207](https://user-images.githubusercontent.com/84584289/192335835-8ecad9af-3095-4bed-a7c2-be5010722926.gif)
