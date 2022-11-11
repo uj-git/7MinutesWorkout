@@ -2,7 +2,7 @@ __7MinutesWorkout__ <br>
 • Android based application project that displays us several exercises with Timer and rest between exercises and
 it stores our Workout history . <br>
 ∗ Designed on Android Studio using Kotlin language.<br>
-∗ Follows __MVVM architecture__ , *Coroutines* , Dependency Injection. <br>
+∗ Follows __MVVM architecture__ , *Coroutines* . <br>
 ∗ Exercises , Numbers , Saved Progress are displayed using Recycler View, View Binding. <br>
 ∗ Used Constraint Layout , Frame Layout for designing , Custom Dialog Box , Custom Progress Bar , Radio
 Buttons. <br>
